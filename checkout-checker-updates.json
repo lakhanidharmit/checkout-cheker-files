@@ -37,6 +37,10 @@
         {
           "version": "2.0.8",
           "update_link": "https://github.com/kevit-dharmit-lakhani/checkout-cheker-files/raw/refs/heads/main/checkout-checker-2.0.8.xpi"
+        },
+        {
+          "version": "2.1.0",
+          "update_link": "https://github.com/kevit-dharmit-lakhani/checkout-cheker-files/raw/refs/heads/main/checkout-checker-2.1.0.xpi"
         }
       ]
     }
